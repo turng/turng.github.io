@@ -1,2 +1,10 @@
-name: My Site
+title: My Site
+author: gt
 theme: minima
+
+header_pages:
+  - about.md
+  - papers.md
+
+minima: 
+  skin: dark
